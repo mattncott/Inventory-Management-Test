@@ -1,0 +1,10 @@
+C:\Users\Matthew\source\repos\Iceland Test\Iceland Test\bin\Debug\Iceland Test.exe.config
+C:\Users\Matthew\source\repos\Iceland Test\Iceland Test\bin\Debug\Iceland Test.exe
+C:\Users\Matthew\source\repos\Iceland Test\Iceland Test\bin\Debug\Iceland Test.pdb
+C:\Users\Matthew\source\repos\Iceland Test\Iceland Test\obj\Debug\Iceland Test.csprojAssemblyReference.cache
+C:\Users\Matthew\source\repos\Iceland Test\Iceland Test\obj\Debug\Iceland Test.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\source\repos\Iceland Test\Iceland Test\obj\Debug\Iceland Test.exe
+C:\Users\Matthew\source\repos\Iceland Test\Iceland Test\obj\Debug\Iceland Test.pdb
+C:\Users\Matthew\source\repos\Iceland Test\Iceland Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Matthew\source\repos\Iceland Test\Iceland Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Matthew\source\repos\Iceland Test\Iceland Test\obj\Debug\Iceland Test.csproj.CopyComplete

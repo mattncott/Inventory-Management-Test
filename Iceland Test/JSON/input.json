@@ -1,0 +1,56 @@
+﻿[
+  {
+    "name": "Aged Brie",
+    "sellin": 1,
+    "quality": 1,
+    "degredation": 1
+  },
+  {
+    "name": "Christmas Crackers",
+    "sellin": -1,
+    "quality": 2,
+    "degredation": 1
+  },
+  {
+    "name": "Christmas Crackers",
+    "sellin": 9,
+    "quality": 2,
+    "degredation": 1
+  },
+  {
+    "name": "Soap",
+    "sellin": 2,
+    "quality": 2,
+    "degredation": 0
+  },
+  {
+    "name": "Frozen Item",
+    "sellin": -1,
+    "quality": 55,
+    "degredation": -1
+  },
+  {
+    "name": "Frozen Item",
+    "sellin": 2,
+    "quality": 2,
+    "degredation": -1
+  },
+  {
+    "name": "Invalid Item",
+    "sellin": 2,
+    "quality": 2,
+    "degredation": 1
+  },
+  {
+    "name": "Fresh Item",
+    "sellin": 2,
+    "quality": 2,
+    "degredation": -2
+  },
+  {
+    "name": "Fresh Item",
+    "sellin": -1,
+    "quality": 5,
+    "degredation": -2
+  },
+]
