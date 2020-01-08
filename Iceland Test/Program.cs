@@ -19,7 +19,7 @@ namespace Iceland_Test
         {
             // Initial Setup
             // File location for items (input) for this example. Should ideally be in a DB or on API
-            String itemSource = @"../../JSON/iput.json";
+            String itemSource = @"../../JSON/input.json";
             // File location for allowed items within the input. Once again should be in a DB or on API
             String allowedItemSource = @"../../JSON/allowed.json";
 
